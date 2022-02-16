@@ -11,3 +11,7 @@
 ## Imposter
 
 ![imposter](https://user-images.githubusercontent.com/79363930/154289054-59869271-c6e5-41e9-8cdf-91b841775ac3.png)
+
+## Corona 
+
+![corona](https://user-images.githubusercontent.com/79363930/154289862-33ce1621-ab31-4b06-9bb5-907c97207e50.png)

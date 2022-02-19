@@ -1,4 +1,10 @@
 ﻿# Turtle graphics 🖌
+ 
+ # Import Library 🐢
+ 
+ ```
+ pip install turtle
+ ```
 
 ## Pikachu
 
